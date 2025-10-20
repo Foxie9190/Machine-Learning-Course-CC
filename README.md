@@ -1,0 +1,1 @@
+Hello everyone this is where Im going to put all of the project that i decide to do for the machine learning course If this helps yall with answers or solutions I appreciate being able to help yall and best of luck to all of who is reading this
