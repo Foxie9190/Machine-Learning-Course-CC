@@ -1,0 +1,1 @@
+Im trying to get the average amount of charges for each age group
